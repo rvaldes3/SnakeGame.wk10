@@ -150,6 +150,7 @@ food = Food()
 
 next_turn(snake, food)
 
-
+#to restart close pop-up window
 
 window.mainloop()
+
